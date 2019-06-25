@@ -8,4 +8,4 @@ Great Snakes and Thundering Typhoons are phrases of exclamation of suprise and e
 
 [Failed attempt at setting up OpenShift on Red Hat - take One](./OpenShift-RHEL7-Failure.md)
 
-Check out my websites [grantsteinfeld.com](https://grantsteinfeld.com) [big code heroes](https://bch.nyc)
+Check out my websites [grantsteinfeld.com](https://grantsteinfeld.com) && [big code heroes](https://bch.nyc)
