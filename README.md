@@ -2,6 +2,6 @@
 Unsuccessful stories and processes about fragile architecture/frameworkd, bad product,failed installs and poorly written or buggy software
 
 
-[Setting up OpenShift on Red Hat](./stories/setting-up-openshift-on-red-hat/README.md)
+[Failed attempt at setting up OpenShift on Red Hat - take One](./OpenShift-RHEL7-Failure.md)
 
 [grantsteinfeld.com](https://grantsteinfeld.com)
