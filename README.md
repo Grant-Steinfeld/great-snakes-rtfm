@@ -8,6 +8,8 @@ Unsuccessful stories and processes about fragile architecture/frameworkd, bad pr
 ```
 [The adventures of Tintin](https://en.wikipedia.org/wiki/The_Adventures_of_Tintin)
 
-[Failed attempt at setting up OpenShift on Red Hat - take One](./OpenShift-RHEL7-Failure.md)
+## List of stories
+
+1. [Failed attempt at setting up OpenShift on Red Hat - take One](./OpenShift-RHEL7-Failure.md)
 
 Check out my websites [grantsteinfeld.com](https://grantsteinfeld.com) && [big code heroes](https://bch.nyc)
